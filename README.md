@@ -46,11 +46,11 @@ An **AI/ML Engineer** and final-year Computer Science undergraduate, passionate 
 ### 📊 GitHub Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=syedhassanhussain&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-zeta-seven-19e00jphfw.vercel.app/api?username=syedhassanhussain&show_icons=true&theme=radical&hide_border=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedhassanhussain&theme=radical&hide_border=true" height="165"/>
 </p>
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedhassanhussain&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats-zeta-seven-19e00jphfw.vercel.app/api/top-langs/?username=syedhassanhussain&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <br>
