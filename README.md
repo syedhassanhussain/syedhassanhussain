@@ -1,6 +1,6 @@
 # Hi there, I'm Syed Hassan Jilani 👋
 
-An **AI/ML Engineer** and Computer Science student, passionate about building intelligent, production-ready systems. Proficient in LLM fine-tuning, RAG architectures, and full-stack AI application development. Currently pursuing a **BSCS at the University of Karachi (UBIT)**, with a solid foundation in software and web development.
+An **AI/ML Engineer** and final-year Computer Science undergraduate, passionate about building intelligent, production-ready systems. Proficient in LLM fine-tuning, RAG architectures, and full-stack AI application development. Currently pursuing a **BSCS at the University of Karachi (UBIT)**, with a solid foundation in software and web development.
 
 - 🔭 I'm currently working on **AutoDoc AI** — a local-only documentation generator powered by FastAPI, SQLite, Playwright, and a local LLM via Ollama
 - 🌱 I'm currently learning parameter-efficient fine-tuning, agentic RAG pipelines, and production LLM deployment
@@ -47,7 +47,7 @@ An **AI/ML Engineer** and Computer Science student, passionate about building in
 
 <p>
 <img src="https://github-readme-stats-zeta-seven-19e00jphfw.vercel.app/api?username=syedhassanhussain&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedhassanhussain&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats-452x.vercel.app/?user=syedhassanhussain&theme=radical&hide_border=true" height="165"/>
 </p>
 <p>
 <img src="https://github-readme-stats-zeta-seven-19e00jphfw.vercel.app/api/top-langs/?username=syedhassanhussain&layout=compact&theme=radical&hide_border=true" height="165"/>
