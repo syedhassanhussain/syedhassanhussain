@@ -1,4 +1,4 @@
-# Hi there, I'm Syed Hassan Jilani 👋
+# Hi there, I'm Hassan Jilani 👋
 
 An **AI/ML Engineer** and final-year Computer Science undergraduate, passionate about building intelligent, production-ready systems. Proficient in LLM fine-tuning, RAG architectures, and full-stack AI application development. Currently pursuing a **BSCS at the University of Karachi (UBIT)**, with a solid foundation in software and web development.
 
